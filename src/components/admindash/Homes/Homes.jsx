@@ -33,7 +33,7 @@ function Home() {
                 </div>
 
                 <div className="table">
-                    <div className="title">Latest Transactions</div>
+                    <div className="title">Patient Lists</div>
                     <TableList />
                 </div>
             </div>

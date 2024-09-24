@@ -23,7 +23,7 @@ function TableList() {
     const data = [
         {
             _id: 23423343,
-            product: 'Programing Book 1',
+            product: 'Broken teeth',
             image: book1,
             customer: 'Devid John',
             date: '3 October, 2022',
@@ -33,7 +33,7 @@ function TableList() {
         },
         {
             _id: 235343343,
-            product: 'Programing Book 2',
+            product: 'canine tooth',
             image: book2,
             customer: 'Julia Ani',
             date: '23 April, 2022',
@@ -43,7 +43,7 @@ function TableList() {
         },
         {
             _id: 234239873,
-            product: 'Programing Book 3',
+            product: 'carious',
             image: book3,
             customer: 'John Smith',
             date: '10 October, 2022',
@@ -53,7 +53,7 @@ function TableList() {
         },
         {
             _id: 23423143,
-            product: 'Programing Book 4',
+            product: 'cavity',
             image: book4,
             customer: 'Devid John',
             date: '3 March, 2022',
@@ -63,7 +63,7 @@ function TableList() {
         },
         {
             _id: 123423343,
-            product: 'Programing Book 5',
+            product: 'crown',
             image: book5,
             customer: 'Humlar',
             date: '20 November, 2022',
@@ -73,7 +73,7 @@ function TableList() {
         },
         {
             _id: 2333343,
-            product: 'Programing Book 6',
+            product: 'dental amalgam',
             image: book2,
             customer: 'Devid John',
             date: '12 June, 2022',
@@ -89,7 +89,7 @@ function TableList() {
                 <TableHead>
                     <TableRow>
                         <TableCell className="table_cell">Tracking Id</TableCell>
-                        <TableCell className="table_cell">Product</TableCell>
+                        <TableCell className="table_cell">Diagnosis</TableCell>
                         <TableCell className="table_cell">Customer</TableCell>
                         <TableCell className="table_cell">Ammount</TableCell>
                         <TableCell className="table_cell">Date</TableCell>

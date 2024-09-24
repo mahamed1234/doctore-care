@@ -35,7 +35,7 @@ function Detail() {
                 </div>
 
                 <div className="table">
-                    <div className="title">Last Transactions</div>
+                    <div className="title">Patient List</div>
                     <TableList />
                 </div>
             </div>

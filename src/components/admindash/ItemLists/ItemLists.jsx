@@ -14,7 +14,7 @@ function ItemLists({ type }) {
     switch (type) {
         case 'user':
             data = {
-                title: 'USERS',
+                title: 'Patient',
                 isMoney: false,
                 count: 232,
                 icon: (
